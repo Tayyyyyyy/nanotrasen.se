@@ -114,6 +114,11 @@ main h2{
     font-size: 1.4em;
     padding-bottom: 20px;
 }
+
+main h3{
+    font-size: 1.2em;
+}
+
 main a{
     text-decoration: 
     underline;
